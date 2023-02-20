@@ -1,3 +1,7 @@
-# note-app-3
+# build-flask-htmx-app-tutorial
+https://codecapsules.io/docs/tutorials/build-flask-htmx-app/
 
-The aim of this app is to create a tech stack with Python, Django, and SQL database, with HTMX on frontend.
+- `source env/bin/activate` (setup in linked tutorial)
+    - `pip3 install flask flask-sqlalchemy gunicorn` if you haven't already
+- `python3 run.py` in root
+- `http://127.0.0.1:5000/`
